@@ -8,7 +8,7 @@ const Header = () => {
 
   return (
     <div className="header_container">
-      <a className="logo">
+      <a className="logo" href="https://tesla20.netlify.app/#">
         <img src={TeslaLogo} alt="tesla logo" />
       </a>
 
