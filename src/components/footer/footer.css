@@ -1,0 +1,31 @@
+.footer_main {
+}
+
+.footer_main ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.footer_main ul li {
+  list-style: none;
+  font-size: 14px;
+  padding: 0 0.5rem;
+  padding-bottom: 1rem;
+}
+
+.footer_main ul li a{
+  color: gray;
+  font-size: 14px;
+}
+
+@media (max-width: 600px) {
+    .footer_main ul {
+        flex-direction: column;
+    }
+
+    .hide {
+        display: none;
+    }
+}

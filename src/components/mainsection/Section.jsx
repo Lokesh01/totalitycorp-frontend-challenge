@@ -1,9 +1,16 @@
 import React from "react";
 import "./section.css";
 import downArrow from "../../assets/down-arrow.svg";
+import Footer from "../footer/Footer";
 
 const Section = ({ data }) => {
-  const { title, description, leftBtnText, rightBtnText, backgroundImg } = data;
+  const {
+    title,
+    description,
+    leftBtnText,
+    rightBtnText,
+    backgroundImg,
+  } = data;
   return (
     <div
       style={{ backgroundImage: `url(${backgroundImg})` }}

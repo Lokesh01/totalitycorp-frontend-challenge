@@ -87,10 +87,6 @@
   transition: transform 10s ease-in;
 }
 
-.menu_dropdown::-webkit-scrollbar {
-  display: none;
-}
-
 .menu_dropdown li {
   padding: 15px 5px;
 }

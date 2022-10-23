@@ -1,3 +1,34 @@
+# Tesla 2.0
+
+A tesla clone built with the help of react.js
+
+## Tech Stack
+
+**Front-End:** React JS, HTML, CSS
+
+##[Live Demo](https://tesla20.netlify.app/)
+
+![](/screenshots/firstpage.jpg)
+
+## modelsData.js
+
+Contains information for the diff cars model and sections of homepage
+
+![](/screenshots/modeldata.jpg)
+
+## components
+
+This folder contains 4 main components of the app 
+1.Header
+2.Footer
+3.Home
+4.Section
+
+## mainSection.js
+
+This file contains the reusable section component of the homepage.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
