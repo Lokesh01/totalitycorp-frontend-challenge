@@ -1,4 +1,5 @@
 .footer_main {
+  scroll-snap-align: start;
 }
 
 .footer_main ul {
