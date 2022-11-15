@@ -6,7 +6,7 @@ A tesla clone built with the help of react.js
 
 **Front-End:** React JS, HTML, CSS
 
-##[Live Demo](https://tesla20.netlify.app/)
+##[Live Demo](https://teslaclone08.netlify.app/)
 
 ![](/screenshots/firstpage.jpg)
 
